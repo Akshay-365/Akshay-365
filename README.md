@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div contenteditable="true" style="border: 2px dashed #ff5733; padding: 20px; border-radius: 8px;">
-  This text is editable, but remember: your changes won’t be saved once you refresh the page.
-</div>
